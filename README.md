@@ -6,8 +6,8 @@ This project presents a **Business Intelligence & Predictive Analytics** solutio
 ## 📊 Business Intelligence Dashboard
 The dashboard provides real-time insights into crash dynamics, allowing stakeholders to filter data by weather, time, and vehicle type.
 
-> **[<img width="2156" height="1161" alt="image" src="https://github.com/user-attachments/assets/d7fa4ec2-f967-407f-9e24-dfca207a6580" />
-]**
+> **<img width="2156" height="1161" alt="image" src="https://github.com/user-attachments/assets/d7fa4ec2-f967-407f-9e24-dfca207a6580" />
+**
 > *Figure 1: Chicago Traffic Risk Intelligence Dashboard*
 
 ## 🛠️ Technical Stack
