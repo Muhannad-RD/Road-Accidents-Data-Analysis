@@ -21,7 +21,7 @@ The dashboard provides real-time insights into crash dynamics, allowing stakehol
 * **Model Recall:** Optimized the model to catch 80% of severe accidents, prioritizing safety over simple accuracy.
 
 ## Repository Contents
-* `Road_Accident_Prediction.ipynb` - Data Science Pipeline.
+* `AccedintsProject.ipynb` - Data Science Pipeline.
 * `Urban_Accident_Analysis_Report.pdf` - Final Professional Report.
 * `Dashboard/` - Power BI (.pbix) Source File.
 
